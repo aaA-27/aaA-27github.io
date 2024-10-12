@@ -54,7 +54,7 @@ let trackList = [
     },
     {
         name: "Cinnamon Girl",
-        artist: "Reyne",
+        artist: "Lana Del Rey",
         path: "./music/Cinnamon Girl.mp3",
     },
     {
